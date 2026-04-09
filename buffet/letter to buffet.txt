@@ -1,0 +1,36 @@
+pril 2026
+
+Mr. Warren Buffett
+Berkshire Hathaway
+3555 Farnam Street
+Omaha, Nebraska 68131
+
+Dear Mr. Buffett,
+
+My name is Meir Niv. I am 70 years old, a dual US-Israel entrepreneur with 45 years of software engineering experience. I am writing to you because I believe I have found the only realistic path to bringing American manufacturing back — not through tariffs or politics, but through software.
+
+Before I explain, let me show you something real. Six months ago, using AI as my partner, I built an automated trading system from scratch. It runs live right now at meirniv.pythonanywhere.com/orders. A 70-year-old man built a working AI system in six months. I tell you this not to impress you, but to prove one thing: AI can now execute complex tasks better than humans, and I can build with it.
+
+That same capability is the foundation of what I am now building — HaGOLEM, the operating system for humanoid robots. Here is why it matters to America:
+
+A Chinese factory worker costs $10,000 a year. A humanoid robot costs $5,000 a year to operate. For the first time in forty years, American factories can compete — not by paying workers less, but by giving American workers something better to do. Every robot needs humans to supervise it, train it, maintain it, and improve it. These are high-paying jobs. Engineers. Programmers. Trainers. Supervisors. Detroit can come back. Not the old Detroit — a better one.
+
+But here is the critical insight that most people miss: China is already ahead in robot hardware. Boston Dynamics built the best robot body in the world and was nearly given away because it had no software. Hardware without an operating system is just an expensive toy. The company that owns the software layer — the OS that runs on every robot regardless of who built the body — wins everything. That is exactly what Google did with Android. They did not build phones. They built the software that runs on all phones. Today Android is worth more than all the phone makers combined.
+
+America's only path to winning the robot race is owning that software layer — with better AI integration than China can match. That is HaGOLEM.
+
+I am not writing to ask for money. You can invest one dollar or one billion — it makes no difference to this letter. What I am asking for is thirty minutes of your time. Your name opens doors that no amount of money can open. And I believe this idea — American manufacturing rebuilt on software, not cheap labor — is one you have believed in your entire career.
+
+I will come to Omaha. I will bring my laptop and show you the live trading system — not slides, not projections, a running system you can look at yourself. Then I will show you how the same discipline builds HaGOLEM.
+
+My mother used to say: "There is always hope." At 70, I still believe that. I think you do too.
+
+With great respect,
+
+Meir Niv
+
+Founder, HaGOLEM
+
+Los Angeles, California
+
+meir@mayyamw.com
